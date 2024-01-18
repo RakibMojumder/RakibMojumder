@@ -1,7 +1,6 @@
-![MasterHead](https://camo.githubusercontent.com/c19b66500c84e952d84d4d9913efdfa40510e702cc04e4f86c208209f10122e7/68747470733a2f2f7777772e6372696f2e646f2f626c6f672f636f6e74656e742f696d616765732f323032312f30342f46756c6c2d737461636b2d7765622d646576656c6f7065722e706e67)
+
 <h1 align="center">Hi 👋, I'm RAKIB AHMED</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/ec46a73424b2810beef85909f84c79252f442f748698f3c9cc4445d65fae4de0/68747470733a2f2f656e6163746573657276696365732e636f6d2f77702d636f6e74656e742f7468656d65732f7477656e74797477656e74792f696d616765732f686972652d646576656c6f7065722f616e696d6174696f6e5f3530305f6c347a63396a35672e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibmojumder&label=Profile%20views&color=0e75b6&style=flat" alt="rakibmojumder" /> </p>
 
