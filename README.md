@@ -1,4 +1,4 @@
-
+<img src="https://res.cloudinary.com/de4g6jmk4/image/upload/v1726985459/Purple_and_Pink_Bold_Business_LinkedIn_Article_Cover_Image_zqpsse.png" alt="Alt text" width="100%" />
 <h1 align="center">Hi 👋, I'm RAKIB AHMED</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
 
