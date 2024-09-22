@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibmojumder&label=Profile%20views&color=0e75b6&style=flat" alt="rakibmojumder" /> </p>
 
-- 🌱 I’m currently learning **TypeScript with Next JS**
+- 🌱 I’m currently learning **TypeScript and Next JS**
 
 - 👨‍💻 All of my projects are available at [my-portfolio](https://rakib-info.vercel.app)
 
